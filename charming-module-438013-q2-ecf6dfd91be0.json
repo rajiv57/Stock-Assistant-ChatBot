@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "charming-module-438013-q2",
+  "private_key_id": "ecf6dfd91be099dd24f12556083568f79c080ba8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZpNM5zVs+dEpo\nY3r92D5sx/7U4UI1wIYRaAjKRNw6Siaj5HjHcbGv5YQfmckRzP8BXdzRFwSaNThs\nQSrx5UCKPgU9htXq7XWecZ8KJRoJrgG11PhcUjZAIdODsZ4vwS4RdhdZ1tyPgiV3\nt/TWCvrmS4inrvrZwFrs9He1MIpWRXLR9EhCorolpwsOWDebdmliAkYpnA11NniI\n0V5OjU1AnlJu7N/Y/48orfNeckh3N6SsU3CEt/+QUof98M5DLgu8A9eEg9ZW1T8b\n4Jtfau+oo2QQUd0hOQGysKUVfp3x4A+Y7TY64Kq9qsGQ0kiYm+1hKkuD/vHcMOc/\nS2NnBW9nAgMBAAECggEAVu6YFBFrbaHDiriZisUSAh9MMTmcWZ4Brvgv8qLYmEu/\n7Vy3xWorQAfb40do4bxQ6vnT1oxsITA6zjqlbaNVSSKGs1GlJkYc4eGeVc4F/XHM\naxWa8j1AQBOCyaprdcWiogTaRN8mkAe68Xu/xrLyDoSDG/8vYUSMzPLE0dGGn/g2\n1j112UepMrBWeXpqCND2b/umfLHBwc/9KYNOPsT2OdR9fIN1YnWRpMscZvX/Ibam\ncX/N4KKfVA+Zww5a8UoFjPf515YOZ9yZOmaX2jJsUwDD8qnGCeOkjcOERXegAvuV\nKU8YgouojKO8eN3lP9hGJeHKzQqitClvVgS6fQc2uQKBgQDuc8pra0JayvYniKEn\nTCHj8wMwqBKJEreSlRIJwCJQh39zWyJqfwPz5NBP5Wpscfs6GcmThITp+4c4APbS\nTgGAbms0gtlmTn/m6fUUtK/K5gYUixwVJbGJoaFFEXaNqkj4b6B4VU7Dp5suYF/l\nEXgpwSbWLslhaQmmdT3K1rMhPQKBgQDpqQX2AbeQARXSenM6QJKjfJvWFQLFCq/2\nb4NdQmi1ZxefI23OxFiR9g/V0T0UOf06miUFunnehnpC1Ac8TRA73Rs8LbRGpWw1\nUi9BxZfECTjf9eSiFwhPhDvDo/U7tG5bbICkzk173Cc2CutDYoyXbftVqI5qCaFd\npPVi9FmVcwKBgBoLP5KX9nlgLZ6Hx8I5CIKTKkgIM24RQ0eZTI0QFS9ifUMmMw4a\nrV3YIgB3+DW8BUqFQoUANlwwAsbVJCA4MOXMKZ1kpUYNUN7xsrj+Oy0YDpXz069j\nnI6BvtGCZMZ4UNwBpS8/cgjgp4xbLl4gmFVHKWy/U3N2O32Y1JTw+kOpAoGATGee\nsWDCW25famHsB+JRkPAQLSLVswTZoSW5uOccQiUhzkHRiEkgBSqG5w3ygQitS1pY\nPNVLQH6MwAmBDDDO3CRi4Xy4dFlnVtA277Ti+ZFibamER5RsfUPqHwEgEZPgejiy\noDFtmNDWaY+Meo5hFqs6AjqJxxa7E1n7e44XNQ0CgYEAiPs9FkSr8BZJxvsqqb98\nywr0nxCBmvPERwF+mqgML5RTvAKpgKwqaZF3O/t1LCp1bHAa42DIet3VfC1KnJ5U\nmw0WsII9F8a/VvVTTDTxihgUULs6L0DRk5PRolEgRuxy7OcIdYwL/LhmQXL1SbCd\nqNc+FnJTcXMdx4D2bEpbZT8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "stock-analysis@charming-module-438013-q2.iam.gserviceaccount.com",
+  "client_id": "115044561901762902571",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stock-analysis%40charming-module-438013-q2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
